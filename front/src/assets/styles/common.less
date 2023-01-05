@@ -1,0 +1,25 @@
+.thumbSmall {
+  ::-webkit-scrollbar {
+    width: @rb-scrollbar-width-sm;
+    height: @rb-scrollbar-height-sm;
+  }
+}
+
+.flexRow(@axis: space-between , @shaft: center) {
+  display: flex;
+  justify-content: @axis;
+  align-items: @shaft;
+}
+.flexColumn(@axis: space-between , @shaft: center) {
+  display: flex;
+  flex-direction: column;
+  justify-content: @axis;
+  align-items: @shaft;
+}
+.positFixed(@left: 0, @top: 0, @right: 0, @bottom: 0) {
+  position: fixed;
+  left: 0;
+  top: 0;
+  right: 0;
+  bottom: 0;
+}

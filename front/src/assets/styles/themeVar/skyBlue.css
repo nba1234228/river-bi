@@ -1,0 +1,55 @@
+/* 天空蓝 */
+.skyBlue {
+  /****** 主题色 ******/
+  --rb-primary-color: #1377eb;
+  --rb-menu-color: #006be6;
+  --rb-body-background: #fff;
+
+  /****** 功能色 ******/
+  --rb-link-color: #1377eb;
+  --rb-success-color: #40bd48;
+  --rb-warning-color: #ffb829;
+  --rb-error-color: #f54645;
+  --rb-money-color: #1a253b;
+  --rb-link-bg-color: #e7f1fd;
+  --rb-success-bg-color: #ebf8ec;
+  --rb-warning-bg-color: #fff7e9;
+  --rb-error-bg-color: #feecec;
+
+  /****** 中性/背景色 ******/
+  --rb-text-color: #1a253b;
+  --rb-text-color-light: #fff;
+  --rb-text-color-secondary: #4e5d78;
+  --rb-label-color: #8894a8;
+  --rb-disabled-color: #bcc1cc;
+  --rb-auxiliary-color: #d0d3db;
+  --rb-border-color-base: #e1e5eb;
+  --rb-background-color: #f5f7fa;
+  --rb-table-header-bg: #edf1f7;
+  --rb-background-color-light: #e7f1fd;
+  --rb-disabled-bg-color: #f5f5f7;
+  --rb-iocn-bg-color: #e1ebf9;
+
+  /****** 主题辅助色 ******/
+  --rb-primary-1: #edf1f7;
+  --rb-primary-2: #b8e2ff;
+  --rb-primary-3: #8fceff;
+  --rb-primary-4: #66b8ff;
+  --rb-primary-5: #3b99f7;
+  --rb-primary-6: #1377eb;
+  --rb-primary-7: #0658c4;
+  --rb-primary-8: #003f9e;
+  --rb-primary-9: #002c78;
+  --rb-primary-10: #001b52;
+
+  /****** 图表色 ******/
+  --rb-chart-1: #1377eb;
+  --rb-chart-2: #3bb875;
+  --rb-chart-3: #4ccdfe;
+  --rb-chart-4: #747cfb;
+  --rb-chart-5: #ff99e6;
+  --rb-chart-6: #cda5f3;
+  --rb-chart-7: #efd311;
+  --rb-chart-8: #81e9e6;
+  --rb-chart-9: #8894a8;
+}
